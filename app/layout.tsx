@@ -33,9 +33,7 @@ export default function RootLayout({
         {children}
         <footer className="site-footer">
           <span>© 2026 TennisCut</span>
-          <a href="mailto:tanakashoya919@gmail.com">
-            tanakashoya919@gmail.com
-          </a>
+          <Link href="/support">サポート</Link>
         </footer>
       </body>
     </html>

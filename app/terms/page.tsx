@@ -54,10 +54,8 @@ export default function TermsPage() {
         <h2>8. お問い合わせ</h2>
         <p>
           本規約に関するお問い合わせは、
-          <a href="mailto:tanakashoya919@gmail.com">
-            tanakashoya919@gmail.com
-          </a>
-          までご連絡ください。
+          <a href="/support">サポートページ</a>
+          を確認してください。
         </p>
       </article>
     </main>

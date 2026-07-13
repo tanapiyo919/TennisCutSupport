@@ -14,11 +14,11 @@ export default function SupportPage() {
         <h2>お問い合わせ</h2>
         <div className="contact-box">
           <p>
-            不具合、購入、書き出し、広告表示に関するお問い合わせは、次のメールアドレスまでご連絡ください。
+            不具合、購入、書き出し、広告表示に関するお問い合わせは、GitHub Issuesからご連絡ください。個人情報や動画そのものは投稿しないでください。
           </p>
           <p>
-            <a href="mailto:tanakashoya919@gmail.com">
-              tanakashoya919@gmail.com
+            <a href="https://github.com/tanapiyo919/TennisCutSupport/issues">
+              TennisCut Support Issues
             </a>
           </p>
         </div>

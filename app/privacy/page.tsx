@@ -46,10 +46,8 @@ export default function PrivacyPage() {
         <h2>6. お問い合わせ</h2>
         <p>
           本ポリシーに関するお問い合わせは、
-          <a href="mailto:tanakashoya919@gmail.com">
-            tanakashoya919@gmail.com
-          </a>
-          までご連絡ください。
+          <a href="/support">サポートページ</a>
+          を確認してください。
         </p>
 
         <h2>7. ポリシーの変更</h2>
