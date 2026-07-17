@@ -8,7 +8,7 @@ export default function PrivacyPage() {
     <main className="document-shell">
       <aside className="document-aside">
         <h1>プライバシーポリシー</h1>
-        <p className="meta">最終更新: 2026年7月13日</p>
+        <p className="meta">最終更新: 2026年7月17日</p>
       </aside>
       <article className="document">
         <p>
@@ -28,6 +28,9 @@ export default function PrivacyPage() {
         <h2>3. 広告</h2>
         <p>
           日本語版では、無料利用時にGoogle AdMobのGoogle Mobile Ads SDKを使用します。広告SDKは、広告表示、広告効果測定、不正利用防止、広告配信の改善のために、IPアドレス、端末ID、広告関連データ、クラッシュログ、パフォーマンスデータ、広告やアプリとの操作情報などを取り扱う場合があります。
+        </p>
+        <p>
+          本アプリは広告のパーソナライズを無効にしており、ユーザーの過去の行動に基づく広告配信やApp Tracking Transparencyによる追跡許可の要求は行いません。非パーソナライズ広告でも、広告の表示回数制限や集計レポートなどのために端末識別子等が取り扱われる場合があります。
         </p>
         <p>
           広告配信事業者による情報の取り扱いについては、Googleのポリシーも確認してください。

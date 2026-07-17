@@ -8,7 +8,7 @@ export default function TermsPage() {
     <main className="document-shell">
       <aside className="document-aside">
         <h1>利用規約</h1>
-        <p className="meta">最終更新: 2026年7月13日</p>
+        <p className="meta">最終更新: 2026年7月17日</p>
       </aside>
       <article className="document">
         <p>この利用規約は、TennisCut日本語版の利用条件を定めるものです。</p>
@@ -30,10 +30,10 @@ export default function TermsPage() {
 
         <h2>4. 広告と購入</h2>
         <p>
-          無料利用時は、動画を書き出す前に広告動画の視聴が必要になる場合があります。広告を削除するには、AppleのIn-App Purchaseを通じて月額プランを購入できます。サブスクリプションの管理と解約は、ユーザーのApple Accountから行います。
+          無料利用時は、動画を書き出す前に広告動画の視聴が必要になる場合があります。「広告削除 月額プラン」は月額210円、期間1か月の自動更新サブスクリプションです。期間終了の24時間前までに解約しない限り自動更新され、Apple Accountへ課金されます。管理と解約は、ユーザーのApple Accountから行えます。
         </p>
         <p>
-          限定ユーザー向けのLifetime Accessは、App Store Connect公式のプロモーションコードなどAppleが提供する仕組みを通じて配布される場合があります。
+          限定ユーザー向けのLifetime Accessは、App Store Connect公式のオファーコードなどAppleが提供する仕組みを通じて配布される場合があります。
         </p>
 
         <h2>5. 禁止事項</h2>
